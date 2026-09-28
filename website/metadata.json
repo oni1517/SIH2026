@@ -1,0 +1,6 @@
+{
+  "name": "Underground Mine Command Center",
+  "description": "Subterranean safety, atmospheric monitoring, and autonomous robotic inspection command center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
